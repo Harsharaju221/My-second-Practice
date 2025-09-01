@@ -1,1 +1,2 @@
 This is the file created in remote repository
+this file was repalced in feature-1 branch
